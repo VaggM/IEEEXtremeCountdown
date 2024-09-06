@@ -13,7 +13,7 @@
 |13/10|17:00|14.0, 15.0|UoM, UoWM-Kastoria|[here](./IEEEXtreme14_15/)|
 |20/10|17:00|16.0, 17.0|DUTh, UniPi|[here](./IEEEXtreme16_17/)|
 
-# Στοιχεία επικοινωνίας Συλλόγων
+# Στοιχεία Eπικοινωνίας Συλλόγων
 
 |ΙΕΕΕ Student Branch|Facebook|Instagram|LinkedIn|
 |---|---|---|---|
