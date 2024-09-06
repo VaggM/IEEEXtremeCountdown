@@ -6,12 +6,12 @@
 
 # Πρόγραμμα των Workshop
 
-|Ημερομηνία|Ώρα|IEEEXtreme Iteration|Student Branch Hosts|Υλικό Workshop|
+|Ημερομηνία|Ώρα|IEEEXtreme Iteration|Student Branch Hosts|Υλικό του Workshop|
 |---|---|---|---|---|
-|28/09|17:00|10.0, 11.0|UTh-Volos, IHU-Serres|-|
-|05/10|17:00|12.0, 13.0|UPatras, UniWA|-|
-|13/10|17:00|14.0, 15.0|UoM, UoWM-Kastoria|-|
-|20/10|17:00|16.0, 17.0|DUTh, UniPi|-|
+|28/09|17:00|10.0, 11.0|UTh-Volos, IHU-Serres|[here](./IEEEXtreme10_11/)|
+|05/10|17:00|12.0, 13.0|UPatras, UniWA|[here](./IEEEXtreme12_13/)|
+|13/10|17:00|14.0, 15.0|UoM, UoWM-Kastoria|[here](./IEEEXtreme14_15/)|
+|20/10|17:00|16.0, 17.0|DUTh, UniPi|[here](./IEEEXtreme16_17/)|
 
 # Στοιχεία επικοινωνίας Συλλόγων
 
