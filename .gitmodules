@@ -1,3 +1,6 @@
 [submodule "IEEEXtreme10_11/IHU-Serres/running-up-stairs"]
 	path = IEEEXtreme10_11/IHU-Serres/running-up-stairs
 	url = git@github.com:IordanisKostelidis/running-up-stairs.git
+[submodule "IEEEXtreme10_11/IHU-Serres/painters-dilemma"]
+	path = IEEEXtreme10_11/IHU-Serres/painters-dilemma
+	url = git@github.com:IordanisKostelidis/painters-dilemma.git
