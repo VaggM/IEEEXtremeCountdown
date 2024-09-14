@@ -1,0 +1,3 @@
+[submodule "IEEEXtreme10_11/IHU-Serres/running-up-stairs"]
+	path = IEEEXtreme10_11/IHU-Serres/running-up-stairs
+	url = git@github.com:IordanisKostelidis/running-up-stairs.git
