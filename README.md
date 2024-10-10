@@ -12,16 +12,3 @@
 |06/10|17:00|12.0, 13.0|UPatras, UniWA|[here](./IEEEXtreme12_13/)|
 |13/10|17:00|14.0, 15.0|UoM, UoWM-Kastoria|[here](./IEEEXtreme14_15/)|
 |20/10|17:00|16.0, 17.0|DUTh, UniPi|[here](./IEEEXtreme16_17/)|
-
-# Στοιχεία Eπικοινωνίας Συλλόγων
-
-|ΙΕΕΕ Student Branch|Facebook|Instagram|LinkedIn|
-|---|---|---|---|
-|UTh-Volos|-|-|-|
-|IHU-Serres|-|-|-| 
-|UPatras|-|-|-| 
-|UniWA|-|-|-| 
-|UoM|-|-|-| 
-|UoWM-Kastoria|-|-|-| 
-|DUTh|-|-|-| 
-|UniPI|-|-|-| 
