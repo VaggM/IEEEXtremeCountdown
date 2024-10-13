@@ -1,3 +1,4 @@
+#IEEEXtreme 14.0 - mary fol
 import math
 
 # Βήμα 1: Ανάγνωση και επεξεργασία εισόδου
