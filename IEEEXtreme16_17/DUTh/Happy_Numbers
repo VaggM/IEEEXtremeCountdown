@@ -1,0 +1,21 @@
+def is_happy(num): # num is the number to check if it is happy
+    seen = set() #adding a set() in order to store all the numbers which have been checked. List not as effective since we might exceed both memory limit and time limit
+    while num != 1 and num not in seen:
+        seen.add(num) #adding all the numbers which haven't been checked in seen
+        num = sum(int(digit) ** 2 for digit in str(num)) #in order to achieve what is asked in the problem, we need to make the number into strings then take each digit and raise to the square and and the sum of all squares
+    return num == 1
+
+def count_happy_numbers(a, b):
+    
+    count = 0
+    for num in range(a, b + 1):   #counts all happy numbers in range a, b
+        if is_happy(num):
+            count += 1
+    return count
+    
+str1 = input()   #getting the user's input as a string since that's how we need to get it
+a, b = str1.split(' ') #splitting the string since we need a and b to be integers in our functions
+a = int(a) #taking the string a and making it an integer
+b = int(b) #same with b 
+happy_count=count_happy_numbers(a,b)
+print(happy_count
