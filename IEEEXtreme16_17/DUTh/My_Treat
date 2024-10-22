@@ -1,0 +1,31 @@
+tests = int(input()) # number of test cases 
+
+for x in range(tests): 
+    meals_given = int(input()) #number of meals given
+    
+    
+    names = {} 
+    
+    
+    for y in range(meals_given):
+        meal = input().split()
+        by_whom=meal[0] #the first string is the person who gave the meals
+        to_whom=meal[2:] #the third until the last one is the people who received the meals
+        count=int(meal[1]) #the second string is the amount of meals by_whom gave. making it an integer since it will be used as a number later on
+        
+        if by_whom not in names:
+            names[by_whom] = count 
+        else:
+            names[by_whom] += count
+            
+        for i in to_whom:
+            if i not in names:
+                names[i] = -1
+            else:
+                names[i] -= 1
+                
+    meals_to_buy=sum([x for x in names.values() if x>0])
+    days = max(names.values())
+        
+        
+    print(meals_to_buy, days)
